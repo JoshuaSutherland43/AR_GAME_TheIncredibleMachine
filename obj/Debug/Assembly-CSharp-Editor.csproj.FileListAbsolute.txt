@@ -1,0 +1,13 @@
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\Temp\bin\Debug\VuforiaVersionCheckerScripts.pdb
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\obj\Debug\Assembly-CSharp-Editor.csproj.AssemblyReference.cache
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\obj\Debug\Assembly.1F1299F3.Up2Date
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\obj\Debug\Assembly-CSharp-Editor.dll
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\obj\Debug\Assembly-CSharp-Editor.pdb
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\Temp\bin\Debug\SamplesScripts.pdb
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\Temp\bin\Debug\CommonScripts.pdb
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\Temp\bin\Debug\VFXCore.pdb
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\Temp\bin\Debug\CommonEditor.pdb

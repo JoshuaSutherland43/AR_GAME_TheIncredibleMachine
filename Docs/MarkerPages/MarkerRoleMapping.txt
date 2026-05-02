@@ -1,0 +1,21 @@
+Marker Role Mapping
+===================
+
+frame_generator_img_target_01: Frame Anchor (Main Machine)
+object_spawner_plank_img_target_02: Plank Spawner
+object_spawner_cube_img_target_03: Cube Spawner
+object_spawner_rope_img_target_04: Rope Spawner
+run_reset_button_img_target_05: Start / Reset Button
+spare_marker_img_target_06: Spare Marker
+
+Role-based source image files:
+- frame_generator_img_target_01.png
+- object_spawner_plank_img_target_02.png
+- object_spawner_cube_img_target_03.png
+- object_spawner_rope_img_target_04.png
+- run_reset_button_img_target_05.png
+- spare_marker_img_target_06.png
+
+Dataset in project:
+- Assets/StreamingAssets/Vuforia/AR.dat
+- Assets/StreamingAssets/Vuforia/AR.xml

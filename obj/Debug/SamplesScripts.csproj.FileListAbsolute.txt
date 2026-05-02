@@ -1,0 +1,8 @@
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\Temp\bin\Debug\SamplesScripts.dll
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\Temp\bin\Debug\SamplesScripts.pdb
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\Temp\bin\Debug\CommonScripts.pdb
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\obj\Debug\SamplesScripts.csproj.AssemblyReference.cache
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\obj\Debug\SamplesScripts.csproj.CoreCompileInputs.cache
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\obj\Debug\SamplesS.BDE8000F.Up2Date
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\obj\Debug\SamplesScripts.dll
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\obj\Debug\SamplesScripts.pdb

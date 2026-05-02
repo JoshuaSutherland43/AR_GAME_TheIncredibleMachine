@@ -1,0 +1,2 @@
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\1st Semester\VIrtual Reality - WVRV402\Tut03 - Minimal AR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
